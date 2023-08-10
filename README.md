@@ -1,6 +1,6 @@
 Welcome to my new project Fun with Colors!
 
-This is a React project using the useState hook to randomize color generation in a user experience fun way!
+This is a React project using the useState hook to randomize color generation in a fun way!
 
 Hope you enjoy exploring different colors!
 
